@@ -1,0 +1,13 @@
+[server]
+port = 8501
+address = "0.0.0.0"
+headless = true
+maxUploadSize = 50
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+
+[theme]
+primaryColor = "#667eea"
